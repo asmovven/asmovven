@@ -22,15 +22,16 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            // Создаем экземпляр класса Check с помощью конструктора с параметрами
-            Izdel izdel = new Izdel("Stul", "123xx4", 100);
+            //// Создаем экземпляр класса Check с помощью конструктора с параметрами
+            //Izdel izdel = new Izdel("Stul", "123xx4", 100);
 
-            // Выводим информацию о чеке
-            Console.WriteLine("Name: " + izdel.Name);
-            Console.WriteLine("Shifr: " + izdel.Shifr);
-            Console.WriteLine("Kolvo: " + izdel.Kolvo);
+            //// Выводим информацию о чеке
+            //Console.WriteLine("Name: " + izdel.Name);
+            //Console.WriteLine("Shifr: " + izdel.Shifr);
+            //Console.WriteLine("Kolvo: " + izdel.Kolvo);
             
-            Console.ReadKey();
+            //Console.ReadKey();
+
         }
     }
 }
